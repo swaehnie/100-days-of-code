@@ -1,11 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: 04.01.2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Heute erledigt**: [x] Anmeldung bei Twitter
+                    [x] GitHub Challenge geforkt
+                    [ ] Responsive Web Design (https://www.freecodecamp.org/learn/responsive-web-design/)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Gedanken:** Ich wollte einfach mal anfangen und bin extrem gespannt.
 
 **Link to work:** [Calculator App](http://www.example.com)
 
