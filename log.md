@@ -4,7 +4,7 @@
 
 **Heute erledigt**: [x] Anmeldung bei Twitter
                     [x] GitHub Challenge geforkt
-                    [x] Responsive Web Design (https://www.freecodecamp.org/learn/responsive-web-design/)
+                    [x] Responsive Web Design 15/28 (https://www.freecodecamp.org/learn/responsive-web-design/)
 
 **Gedanken:** Ich wollte einfach mal anfangen und bin extrem gespannt.
 
