@@ -4,11 +4,11 @@
 
 **Heute erledigt**: [x] Anmeldung bei Twitter
                     [x] GitHub Challenge geforkt
-                    [ ] Responsive Web Design (https://www.freecodecamp.org/learn/responsive-web-design/)
+                    [x] Responsive Web Design (https://www.freecodecamp.org/learn/responsive-web-design/)
 
 **Gedanken:** Ich wollte einfach mal anfangen und bin extrem gespannt.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Day 0](https://github.com/swaehnie/100-days-of-code/tree/kallaway-patch-1/Responsive%20Web%20Design/Day%200)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
