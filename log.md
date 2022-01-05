@@ -4,20 +4,19 @@
 
 **Heute erledigt**: [x] Anmeldung bei Twitter
                     [x] GitHub Challenge geforkt
-                    [x] Responsive Web Design 15/28 (https://www.freecodecamp.org/learn/responsive-web-design/)
+                    [x] Responsive Web Design (https://www.freecodecamp.org/learn/responsive-web-design/)
 
 **Gedanken:** Ich wollte einfach mal anfangen und bin extrem gespannt.
 
 **Link to work:** [Day 0](https://github.com/swaehnie/100-days-of-code/tree/kallaway-patch-1/Responsive%20Web%20Design/Day%200)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: 05.01.2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Heute erledigt**: [x] Responsive Web Design (https://www.freecodecamp.org/learn/responsive-web-design/)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Gedanken:** Ich wollte einfach mal anfangen.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** [Day 1](https://github.com/swaehnie/100-days-of-code/tree/kallaway-patch-1/Responsive%20Web%20Design/Day%20001)
 
 
 ### Day 1: June 27, Monday
