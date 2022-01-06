@@ -19,12 +19,10 @@
 **Link to work:** [Day 1](https://github.com/swaehnie/100-days-of-code/tree/kallaway-patch-1/Responsive%20Web%20Design/Day%20001)
 
 
-### Day 1: June 27, Monday
+### Day 1: 05.01.2022
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Heute erledigt**: [x] Responsive Web Design (https://www.freecodecamp.org/learn/responsive-web-design/)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Gedanken:** Steigerung! 21 Aufgaben gelöst.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Day 2](https://github.com/swaehnie/100-days-of-code/tree/kallaway-patch-1/Responsive%20Web%20Design/Day%20002)
