@@ -34,7 +34,7 @@
 
 **Gedanken:** Der kleine Pinguin hat schon ganz schön viel Zeit gekostet.
 
-**Link to work:** [Day 2](https://github.com/swaehnie/100-days-of-code/tree/kallaway-patch-1/Responsive%20Web%20Design/Day%20003)
+**Link to work:** [Day 3](https://github.com/swaehnie/100-days-of-code/tree/kallaway-patch-1/Responsive%20Web%20Design/Day%20003)
 
 
 ### Day 4: 08.01.2022
@@ -43,5 +43,5 @@
 
 **Gedanken:** Super Zeit gehabt und viel geschafft.
 
-**Link to work:** [Day 2](https://github.com/swaehnie/100-days-of-code/tree/kallaway-patch-1/Responsive%20Web%20Design/Day%20004)
+**Link to work:** [Day 4](https://github.com/swaehnie/100-days-of-code/tree/kallaway-patch-1/Responsive%20Web%20Design/Day%20004)
 
