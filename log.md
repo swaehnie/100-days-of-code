@@ -45,3 +45,11 @@
 
 **Link to work:** [Day 4](https://github.com/swaehnie/100-days-of-code/tree/kallaway-patch-1/Responsive%20Web%20Design/Day%20004)
 
+
+### Day 5: 09.01.2022
+
+**Heute erledigt**: [x] Responsive Web Design (https://www.freecodecamp.org/learn/responsive-web-design/)
+
+**Gedanken:** CSS Styles und Animationen.
+
+**Link to work:** [Day 5](https://github.com/swaehnie/100-days-of-code/tree/kallaway-patch-1/Responsive%20Web%20Design/Day%20005)
