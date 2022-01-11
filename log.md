@@ -63,3 +63,11 @@
 
 **Link to work:** [Day 6](https://github.com/swaehnie/100-days-of-code/tree/kallaway-patch-1/Responsive%20Web%20Design/Day%20006)
 
+
+### Day 7: 11.01.2022
+
+**Heute erledigt**: [x] Responsive Web Design (https://www.freecodecamp.org/learn/responsive-web-design/)
+
+**Gedanken:** Links und wraps.
+
+**Link to work:** [Day 7](https://github.com/swaehnie/100-days-of-code/tree/kallaway-patch-1/Responsive%20Web%20Design/Day%20007)
