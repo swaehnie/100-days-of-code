@@ -71,3 +71,12 @@
 **Gedanken:** Links und wraps.
 
 **Link to work:** [Day 7](https://github.com/swaehnie/100-days-of-code/tree/kallaway-patch-1/Responsive%20Web%20Design/Day%20007)
+
+
+### Day 8: 12.01.2022
+
+**Heute erledigt**: [x] Responsive Web Design (https://www.freecodecamp.org/learn/responsive-web-design/)
+
+**Gedanken:** CSS flex.
+
+**Link to work:** [Day 8](https://github.com/swaehnie/100-days-of-code/tree/kallaway-patch-1/Responsive%20Web%20Design/Day%20008)
