@@ -80,3 +80,13 @@
 **Gedanken:** CSS flex.
 
 **Link to work:** [Day 8](https://github.com/swaehnie/100-days-of-code/tree/kallaway-patch-1/Responsive%20Web%20Design/Day%20008)
+
+
+### Day 9-11: 13/14/15.01.2022
+
+**Heute erledigt**: [x] Responsive Web Design (https://www.freecodecamp.org/learn/responsive-web-design/)
+
+**Gedanken:** CSS columns/rows
+
+**Link to work:** [Day 9-11](https://github.com/swaehnie/100-days-of-code/tree/kallaway-patch-1/Responsive%20Web%20Design/Day%20009%20-%200011)
+
